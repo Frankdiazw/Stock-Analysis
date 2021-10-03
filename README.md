@@ -47,4 +47,17 @@ Click in the following link to see a detailed description of the code used in th
 - :page_with_curl: [VBA code for Stock Analysis](https://github.com/Frankdiazw/Stock-Analysis/blob/main/VBA_Challenge.vbs)
 
 ## Summary
-Talking about the refactored VBA code implemented on the Excel workbook, there are some advantages that can demonstrate that using a Refactored code is better. We can see in figure 1 and 2 the time lapses that show 
+Talking about the refactored VBA code implemented on the Excel workbook, there are some advantages that can demonstrate that using a Refactored code is better. We can see in figure 1 and 2 the time lapses that show 4.89 second and 4.96 seconds on the refactored code, on the other hand we can observe in the following figures:
+![](https://github.com/Frankdiazw/Stock-Analysis/blob/main/Resources/VBA_Original_Code_2017.png)
+
+- **Figure 3. Time Lapse for the original code on the year 2017.**
+
+![](https://github.com/Frankdiazw/Stock-Analysis/blob/main/Resources/VBA_Original_Code_2018.png)
+
+- **Figure 4. Time Lapse for the original code on the year 2018.**
+
+We can see in the Figures 3 and 4 that the codes ran slower due to the structure of the code, we can determine due to the difference of time lapses that the refactored code worked even better, and as if that weren't enough, the user is able to input the year he desires to analyze in the refactored code, in comparison with the original code were the user can't.
+
+The disadvantages are presented when coding the refactored code, the programmer can possibly encounter with syntax errors and semantic errors. Personally, I encountered with the following errors:
+- :heavy_exclamation_mark: [Application-defined or Object-defined error](https://stackoverflow.com/questions/17980854/vba-runtime-error-1004-application-defined-or-object-defined-error-when-select)
+- :heavy_exclamation_mark: [Subscript out of range](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/subscript-out-of-range-error-9)
