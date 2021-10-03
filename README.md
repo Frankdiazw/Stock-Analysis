@@ -42,5 +42,9 @@ Now, the results this year were totally opposite to last year. It can be seen in
 
 For investors, they are recommended to invest their money in Enphase Energy ("ENPH") and SunRun ("RUN"), since they were the only companies that managed to raise their shares throughout the two years studied. It should not be forgotten that Daqo had an outstanding result in 2017, although it has decreased for 2018, another year would have to be reviewed to see if this company is as promising as in 2017. Comparing the two companies that managed to come out positive in the two years, Enphase Energy was the one that had the greatest impact with 129.5% and 81.9% on Return, recommending investors to invest in this company due to its statistical results.
 
+### Description of code used to run the Stock Analysis
+Click in the following link to see a detailed description of the code used in the workbook:
+- :page_with_curl: [VBA code for Stock Analysis](https://github.com/Frankdiazw/Stock-Analysis/blob/main/VBA_Challenge.vbs)
+
 ## Summary
-Talking about the refactored VBA code implemented on the Excel workbook, there are some advantages that can show 
+Talking about the refactored VBA code implemented on the Excel workbook, there are some advantages that can demonstrate that using a Refactored code is better. We can see in figure 1 and 2 the time lapses that show 
