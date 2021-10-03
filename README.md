@@ -20,11 +20,18 @@ In the stock market, 12 companies were studied throughout the years 2017 and 201
 - TerraForm Power ("TERP")
 - Vivint Solar ("VSLR")
 
-These were the faces of the green energies in the stock market on the years 2017-2018. the outcomes of these analyzes were as follows:
+These were the faces of the green energies in the stock market on the years 2017-2018. The results of this analysis are mainly focused on the company to be studied and the comparison of the price of the tickers at the beginning of the year and the price at the end of the same year, the outcomes are the following:
 
 ### 2017 Stock Market
+On this year the stock market showed the following results:
+![](https://github.com/Frankdiazw/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
+* Figure 1. Stock Analysis for the 2017 Stock Market.
+
+In figure 1, we can observe the 12 companies to study, their "Total Daily Volumes" that represent the number of shares traded per day and the return in fucntion of time, that represents the percentage of prices at the end of the year between the prices at the beginning of the year.
+In this year, the results of the actions of the companies were satisfactory in most cases. We can see that for the company TerraForm ("TERP") it had a -7.2% return at the end of 2017, which means that in 2017 all those who invested in this company lost money and it was the only company that came out negative in that year. On the other hand, we have an impressive 199.4% return for Daqo New Energy ("DQ"), being the company that stood out the most this year, followed by SolarEdge ("SEDG") and Enphase Energy ("ENPH") with 184.5% and 129.5% respectively.
 
 ### 2018 Stock Market
 
+![](https://github.com/Frankdiazw/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 ## Summary
