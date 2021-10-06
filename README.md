@@ -34,7 +34,7 @@ In this year, the results of the actions of the companies were satisfactory in m
 
 ### 2018 Stock Market :arrow_lower_right:
 On this year the Stock Market showed the following results:
-![](https://github.com/Frankdiazw/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
+![](https://github.com/Frankdiazw/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018(1).png)
 
 * **Figure 2. Stock Analysis for the 2018 Stock Market.**
 
