@@ -24,7 +24,7 @@ These were the faces of the green energies in the stock market on the years 2017
 
 ### 2017 Stock Market :arrow_upper_right:
 On this year the Stock Market showed the following results:
-![]https://github.com/Frankdiazw/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png
+![](https://github.com/Frankdiazw/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 * **Figure 1. Stock Analysis for the 2017 Stock Market.**
 
