@@ -61,3 +61,10 @@ We can see in the Figures 3 and 4 that the codes ran slower due to the structure
 The disadvantages are presented when coding the refactored code, the programmer can possibly encounter with syntax errors and semantic errors. Personally, I encountered with the following errors:
 - :heavy_exclamation_mark: [Application-defined or Object-defined error](https://stackoverflow.com/questions/17980854/vba-runtime-error-1004-application-defined-or-object-defined-error-when-select)
 - :heavy_exclamation_mark: [Subscript out of range](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/subscript-out-of-range-error-9)
+ 
+- The **run-time error 1004** or **Application-defined or Object- defined error** usually appears when we are programming in Visual Basic for Excel in any of the following cases: When the macro copies and pastes an entire row from an Excel workbook. When the VBA macro copies and pastes a range of 2516 rows or more into an Excel workbook (Personally, i had trouble with pasting the entire row into my VBA sheet).
+- To solve the problem of copying and pasting an entire row, we will change the macro code to copy only the section of the row that contains data. For this the user needs to follow this line of code:
+    - xRow = Cells(Rows.Count, 1).End(xlUp).Row
+
+- The **Subscript out of range error** occurs because the object we are trying to access doesn’t exist. This is an error type in VBA coding, and this is a “Run Time Error 9”.
+  - To solve this error is very simple, the user needs to ensure he referenced the exact worksheet he will work on, otherwise he will encounter with this error. 
